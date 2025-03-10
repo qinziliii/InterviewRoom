@@ -9,4 +9,4 @@ A multi-modal Intelligent Psychological Assessment and Intervention System for U
 5. Effect
 
 ### Flow Diagram
-![FlowDiagram](/Pics/FlowDiagram.jpg)
+![FlowDiagram](/pics/FlowDiagram.jpg)
